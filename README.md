@@ -5,9 +5,7 @@
 ## 特集
 
 どんなときだって、どんなことだってぼくらは JavaScript と一緒にやってきた。
-
 JavaScript 好きなら、きっとなんでも JavaScript でやってしまいたいはず。
-
 今世の中で考えられている JavaScript よりも、さらに可能性をおし拡げることがテーマの記事を書いてもらえるとありがたい！(しかし、それ以外の記事も歓迎です。)
 
 例えば
@@ -47,7 +45,6 @@ P5.js (JavaScript 製のクリエイティブコーディング向けのライ�
 [参考: #1 の時記事へのリンク, Node.js 系の本を取り上げました](https://www.figma.com/file/cCGzV5P038kdQuyZYXgW3D2w/read_your_document.JS-2019%2F01?node-id=10%3A11)
 
 JavaScript 関係の未翻訳書籍を紹介します。
-
 (基本、中西担当。紹介したい人が他にいればいつでもお譲りします。)
 
 ### JavaScript と文学の関係性
