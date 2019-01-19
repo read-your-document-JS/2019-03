@@ -11,6 +11,8 @@ web: uncle-javascript.com
 
 ## JavaScript の芸術
 
+![画像入れる時](./images/sample.png)
+
 JavaScript は芸術の為にも使われる。
 例えば Processing から枝分かれして生まれた P5.js を用いて、
 ブラウザ上で Generative なコーディングを楽しむことができる。
