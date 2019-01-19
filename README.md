@@ -3,10 +3,11 @@
 以下特集記事について書いていただけるエンジニアを募集しております。
 まずはお気軽に以下アカウントにご連絡ください！
 
+- https://twitter.com/better_than_i_w
+- https://twitter.com/takanoripe
+
 記事の締め切りは、2月末の予定です。
 
-https://twitter.com/better_than_i_w
-https://twitter.com/takanoripe
 
 ### 前回はこんな雰囲気
 
