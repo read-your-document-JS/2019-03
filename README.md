@@ -1,4 +1,16 @@
-[Figma (組版用に使っているページ) へのリンク](https://www.figma.com/file/nIFCz1XqUmBRQyUtn64Lm5/read_your_document.JS-2019%2F03?node-id=0%3A1)
+## 特集テーマを書いてくれるエンジニアを募集！
+
+以下特集記事について書いていただけるエンジニアを募集しております。
+まずはお気軽に以下アカウントにご連絡ください！
+
+記事の締め切りは、2月末の予定です。
+
+https://twitter.com/better_than_i_w
+https://twitter.com/takanoripe
+
+### 前回はこんな雰囲気
+
+[Figma (組版用に使っているページ) へのリンク](https://www.figma.com/file/o4zFY5vUJZFkDoT9UUN0ar/SAMPLE-read_your_document.JS-2019-03-SAMPLE?node-id=10%3A11)
 
 # #2 Anything, Anyway, JavaScript  
 
