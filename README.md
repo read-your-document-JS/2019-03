@@ -19,6 +19,7 @@ JavaScript 好きなら、きっとなんでも JavaScript でやってしまい
 - JavaScript で乾燥機のコントロール
 - JavaScript で婚活
 - JavaScript で海外旅行
+- JavaScript で USB にアクセス！
 
 かなり強引でも OK です！
 
